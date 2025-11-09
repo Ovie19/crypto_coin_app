@@ -1,6 +1,5 @@
 import 'package:crypto_currency_app/providers/coin_provider.dart';
 import 'package:crypto_currency_app/screens/coin_details_screen.dart';
-import 'package:crypto_currency_app/services/coingecko_api.dart';
 import 'package:crypto_currency_app/widgets/coin_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
